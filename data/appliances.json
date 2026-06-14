@@ -1,0 +1,12 @@
+{
+    "AC": 1500,
+    "Fan": 75,
+    "TV": 120,
+    "Laptop": 65,
+    "Refrigerator": 300,
+    "Microwave": 1000,
+    "Washing Machine": 500,
+    "Water Heater": 2000,
+    "Air Purifier": 80,
+    "LED Bulb": 15
+}
